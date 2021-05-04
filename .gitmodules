@@ -1,0 +1,6 @@
+[submodule "leonunesbsBlog-frontend"]
+	path = leonunesbsBlog-frontend
+	url = https://github.com/leonunesbs/leonunesbsBlog-frontend.git
+[submodule "leonunesbsBlog-backend"]
+	path = leonunesbsBlog-backend
+	url = https://github.com/leonunesbs/leonunesbsBlog-backend.git
