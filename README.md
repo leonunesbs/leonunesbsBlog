@@ -1,5 +1,7 @@
 # leonunesbsBlog
 
+## Blog pessoal em que aplico, no código, conhecimentos adquiridos.
+
 ### Frameworks
 
 - [x] [Next.js](https://nextjs.org)
